@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rboz1
-- 👀 I’m interested in front end development!
+- 👀 I’m interested in front end development and the intersection between design and technology!
 - 🌱 I’m currently learning: React
 - 📫 How to reach me rbozadjian@gmail.com
 
