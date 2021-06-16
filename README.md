@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rboz1
 - 👀 I’m interested in front end development and the intersection between design and technology!
-- 🌱 I’m currently learning: CSS Animations and React
+- 🌱 I’m currently learning: SCSS and React
 - 📫 How to reach me rbozadjian@gmail.com
 
 <!---
