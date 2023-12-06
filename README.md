@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rboz1
-- 👀 I’m interested in front end development and the intersection between design, technology, and science!
-- 🧪 Currently experimenting with: [emotion JS](https://emotion.sh/docs/introduction), [styled-components](https://styled-components.com/), and [material UI](https://mui.com/)
+- 👋 Hi, I’m Rachel
+- 👀 I’m a Bioinformatics Master’s student with a background in the wet-lab and work experience in Python and Illumina Next Generation DNA Sequencing! 
+- 🧪 Currently experimenting with: Bash, and R
 - 📫 How to reach me rbozadjian@gmail.com
 
 <!---
