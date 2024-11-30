@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel
 - 👀 I’m a Bioinformatics Master’s student with a background in the wet-lab and work experience in Python and Illumina Next Generation DNA Sequencing! 
-- 🧪 Currently experimenting with: tidyverse and dplyr
+- 🧪 Currently experimenting with: Seurat and Tensorflow
 - 📫 How to reach me rbozadjian@gmail.com
 
 <!---
