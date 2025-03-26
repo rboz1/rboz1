@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rachel
 - 👀 I’m a Bioinformatics Master’s student with a background in the wet-lab and work experience in Python and Illumina Next Generation DNA Sequencing! 
 - 🧪 Currently experimenting with: Nextflow
-- 📫 How to reach me rbozadjian@gmail.com
 
 <!---
 rboz1/rboz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
