@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rachel
-- 👀 I’m a Bioinformatician with a background in the wet-lab and work experience in Python and Illumina Next Generation DNA Sequencing! 
+- 👀 I’m a Bioinformatician with a background in the wet-lab! 
 - 🧪 Currently experimenting with: PacBio Iso-Seq
 
 <!---
